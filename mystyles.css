@@ -1,0 +1,9 @@
+h1 {
+    color:aqua;
+    background-color: blue;
+}
+
+h1.page-title{
+    color:crimson;
+    font-size: 150px;
+}
